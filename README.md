@@ -25,4 +25,8 @@
 | the program is free to download, however it is not free to use!  
 | 597516319545622549 is my discord ID, go to discord.id (website) and look up my ID to find my username, add me and we can discuss payment methods!  
   
+# Known question:  
+>Why is it so expensive?  
+its expensive because over a days worth of coding alone + hours it took debugging and testing that went into the project!
+  
 # !!FOR MORE INQUIRY ADD ME ON DISCORD!!
