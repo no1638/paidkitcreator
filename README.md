@@ -26,7 +26,10 @@
 | 597516319545622549 is my discord ID, go to discord.id (website) and look up my ID to find my username, add me and we can discuss payment methods!  
   
 # Known question:  
->Why is it so expensive?  
-its expensive because over a days worth of coding alone + hours it took debugging and testing that went into the project!
+Why is it so expensive?  
+its expensive because over a days worth of coding alone + hours it took debugging and testing that went into the project!  
+  
+Why is it flagging as a virus when i download it?  Should i be concerned??  
+no, not at all, thats what everyone would say in my position, the reason it flags as a virus is due to the way it was compiled into an EXE file, on that note if you really take your safety seriously then dont download files off the internet at all!
   
 # !!FOR MORE INQUIRY ADD ME ON DISCORD!!
