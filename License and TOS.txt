@@ -1,0 +1,23 @@
+Terms of Service and Use and License to Use
+
+ANY PERSON(s) WHO INSTALLS, OR DOWNLOADS THIS PROGRAM OR ITS ADDONS ARE SUBJECT TO THE LICENSE - 
+AND TERMS OF SERVICE AND USE STATED BELOW.
+
+Addon(s) :: A addition to functionality, usability or an official addition to the use of the program(s).
+
+Section A
+The person(s) using this program and included addons (addons defined above) [upon download / installation onto the device in question] -
+Agree to not distribute purchased / verified versions of the program(s) or product keys [applies to base program and all official addons].
+
+
+Section B
+The person(s) using this program and included addons shall not attempt to, or perform the extraction of source code, nor
+shall they modify the program / addons without strict and explicit permission from the developer of the program.
+(if you have suggested edits open contact info.txt and add me on discord to discuss possible edits and changes to the program or addons, or create a pull request on
+https://github.com/no1638/paidkitcreator)
+
+
+Section C
+If the person(s) using this program and included addons are found to be in violation of Section B of the Terms of Service and Use legal action will be taken to its
+fullest extent against the person(s).
+
