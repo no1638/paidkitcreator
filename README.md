@@ -2,6 +2,10 @@
 | Paid kit creator for DayZ executable file  
   
   
+!!WARNING FILES AND LICENSE/TOS MAY CHANGE AT ANY GIVEN TIME IT IS YOUR RESPONSIBILITY TO UPDATE YOUR FILES!!  
+!!FAILURE TO UPDATE YOUR FILES / TOS WILL NOT SUBSTITUTE AS AN EXCUSE!!  
+  
+  
 # Requirements:
 | Windows based operating system  
   
