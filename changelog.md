@@ -16,3 +16,4 @@ Includes:
 ### Version 2022_1.5 (V1.5) Released 06/07/2022  
 Changes:  
 - Fixed bug where type name would be in spawnabletypes (attachments) snippet in place of survivor name
+- Added sleek icon
