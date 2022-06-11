@@ -48,10 +48,12 @@ no, not at all, thats what everyone would say in my position, the reason it flag
 
 Images below:  
 this image shows what it looks like when you download it but have NOT paid for it:  
-![kitcreator](https://user-images.githubusercontent.com/69305135/171985730-00770d01-45e1-4951-bd32-d561076c853b.png)  
+![kitcreator2](https://user-images.githubusercontent.com/69305135/173170454-b27b2419-a627-4943-b24a-1e7448f1a0bb.png)
+
   
-this image shows what it looks like when you download AND paid for it:  
-![kitcreator2](https://user-images.githubusercontent.com/69305135/171985766-82771c9b-fe88-44e0-844f-c8bed6c28154.png)  
+this image shows what it looks like when you download AND paid for it (and all add-ons):  
+ ![kitcreator](https://user-images.githubusercontent.com/69305135/173170451-89f91727-df03-42fb-abb9-6a27b75674ee.png)
+
   
 !!NOTICE!!  
 Truck Editor and stamina/build anywhere/gas zones options will be disabled until purchased and proof of purchase is provided with 2 product keys!!
